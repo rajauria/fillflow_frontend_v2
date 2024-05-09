@@ -9,7 +9,7 @@ const page = () => {
   return (
     <div className="flex w-full h-screen bg-blue-400 flex-row gap-4">
       <div className="w-[23vw]">
-        <Sidebar items={items} />
+        // <Sidebar items={items} />
       </div>
     </div>
   );
