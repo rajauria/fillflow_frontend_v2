@@ -17,7 +17,7 @@ import { loginSchema } from "../utils/validations/authValiationSchema.js";
 import { setCookie } from "cookies-next";
 
 const Page = () => {
-  const options = ["Bangore", "Mumbai", "Agra"];
+  const options = ["Karshini Artysun Pvt Ltd"];
 
   // State variables for form data
   const [formData, setFormData] = useState({
